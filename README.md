@@ -93,13 +93,11 @@ fashion-mnist-classifier/
 git clone https://github.com/yashandhale9/fashion-mnist-case-study.git
 cd fashion-mnist-case-study
 ```
----
 
 ### **🔹Step 2: Install Required Dependencies**
 
 pip install tensorflow scikit-learn matplotlib numpy
 
----
 
 ### **🔹 Step 3: Run the Project**
 
